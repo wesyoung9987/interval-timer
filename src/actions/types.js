@@ -1,0 +1,16 @@
+export const WORKOUT_FETCH_SUCCESS = 'workout_fetch_success';
+export const PASSWORD_CHANGE = 'password_change';
+export const EMAIL_CHANGE = 'email_change';
+export const LOGIN_USER = 'login_user';
+export const AUTH_USER_SUCCESS = 'auth_user_success';
+export const AUTH_USER_FAIL = 'auth_user_fail';
+export const SIGNUP_USER = 'signup_user';
+export const WARMUP_CHANGE = 'warmup_change';
+export const INTERVAL_CHANGE = 'interval_change';
+export const REST_CHANGE = 'rest_change';
+export const COOLDOWN_CHANGE = 'cooldown_change';
+export const ROUNDS_CHANGE = 'rounds_change';
+export const NAME_CHANGE = 'name_change';
+export const WORKOUT_CREATE = 'workout_create';
+export const WORKOUT_DELETE = 'workout_delete';
+export const WORKOUT_UPDATE = 'workout_update';
